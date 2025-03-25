@@ -15,14 +15,14 @@
 	list-style-type: none;
 	margin: 0;  
   padding: 0;
-  postion: relative;
+  position: relative;
 	left: 50%;
 	float: left;
 }
 
 #main-navbar ul li {
 	float: left;
-  postion: relative;
+  position: relative;
   right: 50%;
 	display: block;
 }
@@ -43,7 +43,7 @@
 }
 
 #sidebar { 
-  postion: fixed;
+  position: fixed;
   right: 0%;
 	background-color: red;
 	height: 100%;
