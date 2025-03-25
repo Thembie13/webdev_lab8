@@ -2,13 +2,13 @@
 #main-navbar {
   background-color: blue;
   overflow: hidden;
-  text-align: center;
 }
 
 #navbar-container { 
   float: left;
 	width: 100%;
 	position: relative;
+  text-align: center;
 }
 
 #main-navbar ul {
